@@ -10,7 +10,6 @@ const Rank = () => {
             <div className='white f1'>  
                 {'#5'}
             </div>
-       
         </div>
     );
 }
