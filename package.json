@@ -1,6 +1,6 @@
 {
   "name": "smart-brain-app",
-  "homepage": "https://pranta-barua007.github.io/smart-brain-app",
+  "homepage": "https://smart-brain-app-front.herokuapp.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
